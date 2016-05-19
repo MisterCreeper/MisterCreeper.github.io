@@ -1,7 +1,7 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              MisterCreeper
+bio:                'My personal website - for testing purposes.'
+description:        "I'm a learning developer with great interest! I also play some games, and watch a lot of series!"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -37,19 +37,19 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
-twitter:            username
-facebook:           username
-github:             username
+email:              josephbouz51@gmail.com
+twitter:            MisterCreeeps
+#facebook:           username
+github:             MisterCreeper
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+instagram:          Bouz51
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
 #foursquare:        username
-steam:              username
+steam:              MisterCreeper
 #dribbble:          username
 #youtube:           username
 #soundcloud:        username
