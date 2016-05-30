@@ -22,3 +22,7 @@ date: 2016-03-21
 * Currently going to the 12th grade..
 * Oh. And obviously. The most important of them all. The gym.
 * And I also play volleyball.
+* Eminem has always been my favorite artist.
+* Although he seems to be one of the few rappers I still listen too.
+* I drifted more into the rock genre of music.
+And that's me!
