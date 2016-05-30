@@ -15,9 +15,9 @@ comments: true
 
 ![Moon Homepage](http://i.imgur.com/gapPlSL.png)    
     
-<center> <a href="https://www.spigotmc.org/resources/basicparticles.23208/"
+<center> <a href="https://www.spigotmc.org/resources/basicparticles.23208/">
 <b>BasicParticles</b>, a menu of a variety of basic particle effects for your players.
-></center>
+</a></center>
 
 ## Info
 A basic plugin with easy usage. Gives your players access to a particle effects menu, where they can pick from a variety of particle effects to be displayed around them!
