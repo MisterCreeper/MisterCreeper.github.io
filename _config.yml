@@ -1,7 +1,7 @@
 # Site
 title:              MisterCreeper
 bio:                'My personal website - for testing purposes.'
-description:        "I'm a learning developer with great interest! I also play some games, and watch a lot of series!"
+description:        "I'm a learning developer with great interest! I play some games, and watch a lot of series!"
 reading_time:       true
 words_per_minute:   200
 logo:               'http://i.imgur.com/9xcEbuR.png'
@@ -37,7 +37,7 @@ disqus_shortname:   MisterCreeper
   #ad-client:
   #ad-slot:
 #bing-verify:
-email:              josephbouz51@gmail.com
+email:              youssefbouz1751@gmail.com
 twitter:            MisterCreeeps
 #facebook:           username
 github:             MisterCreeper
@@ -51,7 +51,7 @@ instagram:          Bouz51
 #foursquare:        username
 steam:              MisterCreeps
 #dribbble:          username
-#youtube:           username
+youtube:            MisterCreeper
 #soundcloud:        username
 #weibo:             username
 #flickr:            username
