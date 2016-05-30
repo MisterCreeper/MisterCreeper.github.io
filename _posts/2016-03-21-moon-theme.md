@@ -23,7 +23,7 @@ comments: true
 A basic plugin with easy usage. Gives your players access to a particle effects menu, where they can pick from a variety of particle effects to be displayed around them!
 <center>
 {% capture images %}
-    http://i.imgur.com/npZQT0Z.png
+   <center> http://i.imgur.com/npZQT0Z.png </center>
 {% endcapture %}
 {% include gallery images=images caption="The display menu." cols=2 %}
 
