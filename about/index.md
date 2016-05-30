@@ -25,4 +25,5 @@ date: 2016-03-21
 * Eminem has always been my favorite artist.
 * Although he seems to be one of the few rappers I still listen too.
 * I drifted more into the rock genre of music.
+
 And that's me!
