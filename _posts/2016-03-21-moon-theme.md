@@ -28,9 +28,9 @@ A basic plugin with easy usage. Gives your players access to a particle effects 
 {% include gallery images=images caption="The display menu." cols=2 %}
 
 {% capture images %}
-    * The Rainbow effect!
+    The Rainbow effect!
     http://i.imgur.com/nlwLy7e.png
-    * The Happy effect!
+    The Happy effect!
     http://i.imgur.com/H1DinES.png
 {% endcapture %}
 {% include gallery images=images caption="And some examples!" cols=2 %}
