@@ -2,7 +2,7 @@
 layout: post
 title:  "Basic Particles"
 date:   2016-04-06
-excerpt: "A MineCraft plugin with basic player particle effects usage!"
+excerpt: "A MineCraft Spigot plugin with basic player particle effects usage!"
 project: true
 tag:
 - minecraft 
