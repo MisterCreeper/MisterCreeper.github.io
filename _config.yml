@@ -4,8 +4,8 @@ bio:                'My personal website - for testing purposes.'
 description:        "I'm a learning developer with great interest! I also play some games, and watch a lot of series!"
 reading_time:       true
 words_per_minute:   200
-logo:               'http://i.imgur.com/2MkTcTG.png'
-background:         'http://i.imgur.com/4fB4ERM.jpg'
+logo:               'http://i.imgur.com/9xcEbuR.png'
+background:         'http://i.imgur.com/RkkXKSq.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                http://taylantatli.me/Moon
