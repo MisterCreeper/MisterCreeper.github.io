@@ -19,4 +19,6 @@ date: 2016-03-21
 * But I still have a lot to learn.
 * I'm also a gamer.
 * But I watch a lot of series too.
-* Currently going to the 12th grade. I'm done.
+* Currently going to the 12th grade..
+* Oh. And obviously. The most important of them all. The gym.
+* And I also play volleyball.
