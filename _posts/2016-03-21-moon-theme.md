@@ -21,7 +21,7 @@ comments: true
 
 ## Info
 A basic plugin with easy usage. Gives your players access to a particle effects menu, where they can pick from a variety of particle effects to be displayed around them!
-
+<center>
 {% capture images %}
     http://i.imgur.com/npZQT0Z.png
 {% endcapture %}
@@ -32,6 +32,7 @@ A basic plugin with easy usage. Gives your players access to a particle effects 
     http://i.imgur.com/H1DinES.png
 {% endcapture %}
 {% include gallery images=images caption="And some examples! The rainbow and happy effects respectively." cols=2 %}
+</center>
 
 ## Features
 * Particle effects GUI
