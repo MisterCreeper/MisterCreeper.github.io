@@ -7,7 +7,7 @@ date: 2016-03-21
     
 <center>I'm Bouz. And you're a loser.</center>
 
-## Preview
+## See? Believe me now?
 
 {% capture images %}
     https://media.giphy.com/media/rKj0oXtnMQNwY/giphy.gif
