@@ -10,7 +10,7 @@ tag:
 - bukkit
 - plugin
 - particles
-comments: true
+comments: false
 ---
 
 ![Moon Homepage](http://i.imgur.com/gapPlSL.png)    
